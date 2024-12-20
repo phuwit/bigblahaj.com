@@ -4,6 +4,6 @@
 </script>
 
 
-<main class="min-h-screen h-fit w-screen">
+<div class="min-h-screen h-fit w-screen">
 	{@render children()}
-</main>
+</div>
